@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nsuso.github.io/wbV/sitemap.wbV.gz
